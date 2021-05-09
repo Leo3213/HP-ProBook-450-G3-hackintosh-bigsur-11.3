@@ -15,9 +15,8 @@ Laptop Specifications:
     8GB DDR4-2133MHz RAM
     15.6 Full HD Display
     Synaptics PS2 TouchPad
-
-    Intel Dual Band Wi-Fi and Bluetooth Card 
 (THIS CARD WAS REPLACED WITH THE FOLLOWING!)
+
 
     2 USB 3.0 Ports, 2 USB 2.0 Ports
     HDMI Port
@@ -25,7 +24,9 @@ Laptop Specifications:
     Kingston SSD disk A400 120GB (upgraded)
     sata m2 500 gb ssd.
     
-    soon i will be repacing dvd drive with 1tb hdd for windows backups and mac timemachine backups (it will be partioned in 2)
+    soon i will be repacing dvd drive with 1tb hdd
+    for windows backups and mac timemachine backups 
+    (it will be partioned in 2)
 
 BIOS Setup:
 
@@ -85,6 +86,5 @@ this is designed for the i7 variant.
 (I rebuilt the config manually with the same settings so it wouldn't be corrupt)
 
 Below is a link to my configuation
-https://www.cnet.com/products/hp-probook-450-g3-15-6-core-i7-6500u-8-gb-ram-500-gb-hybrid-drive-us/Intel Dual Band Wi-Fi and Bluetooth Card 
 
 if anyone wants to make this config better for everyone let me know your fixes and ill include them and give you credit :)
