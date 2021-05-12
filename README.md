@@ -5,7 +5,6 @@ My HP ProBook 450 G3 Hackintosh laptop configuration.
 This Config uses Clover as the bootloader (but its the version 5133 which uses open core runtime) and I am currently running macOS BigSur 11.3 as OS
 
 everything works that I'm aware of except:
-  sleep when plugged in.
   sd card reader.
 
 Laptop Specifications:
