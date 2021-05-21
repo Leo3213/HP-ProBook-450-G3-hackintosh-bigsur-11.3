@@ -50,7 +50,7 @@ BIOS Setup:
 What works:
 
     macOS BigSur 11.3
-    UEFI booting via OpenCore
+    UEFI booting via Clover with Openruntime.
     Built-in keyboard (with special function keys)
     Built-in trackpad
     Brightness Control Hotkeys
@@ -66,7 +66,7 @@ What works:
     USB 3.0 Ports
     Ethernet
     Audio on internal speaker and headphone
-    Sleep and Wake (still need to fix sleep when plugged in. Otherwise perfect)
+    Sleep and Wake
 
 What doesn't work:
 
