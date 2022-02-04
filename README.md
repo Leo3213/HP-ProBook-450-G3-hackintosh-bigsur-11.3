@@ -1,11 +1,11 @@
 # HP-ProBook-450-G3-Hackintosh
 My HP ProBook 450 G3 Hackintosh laptop configuration.
 
+This Config uses Clover as the bootloader (but its the version 5133 which uses open core runtime) and I am currently running macOS BigSur 11.6.3 as OS
 
-This Config uses Clover as the bootloader (but its the version 5133 which uses open core runtime) and I am currently running macOS BigSur 11.3 as OS
+(everything works that I'm aware of)
 
-everything works that I'm aware of except:
-  sd card reader.
+    SD Card Reader (as of release 1.0.4 it now works thaks to user, "robi62"
 
 Laptop Specifications:
 
@@ -71,7 +71,7 @@ What works:
 What doesn't work:
 
     Fingerprint Reader
-    SD Card Reader
+    SD Card Reader (as of release 1.0.4 it now works thaks to user, "robi62"
 
 Thanks to:
 The entire internet.
