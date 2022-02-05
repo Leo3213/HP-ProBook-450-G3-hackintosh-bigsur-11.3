@@ -3,14 +3,19 @@ My HP ProBook 450 G3 Hackintosh laptop configuration.
 
 after install to get sleep/wake working run theses commands:
 
+"sudo pmset -a hibernatemode 0"
 
-sudo pmset -a hibernatemode 0
-sudo pmset autopoweroff 0
-sudo pmset powernap 0
-sudo pmset standby 0
-sudo pmset proximitywake 0
-sudo pmset tcpkeepalive 0
-sudo pmset lidwake 0
+"sudo pmset autopoweroff 0"
+
+"sudo pmset powernap 0"
+
+"sudo pmset standby 0"
+
+"sudo pmset proximitywake 0"
+
+"sudo pmset tcpkeepalive 0"
+
+"sudo pmset lidwake 0"
 
 
 This Config uses Clover as the bootloader (but its the version 5144 which uses open core runtime) and I am currently running macOS BigSur 11.6.3 as OS
