@@ -1,7 +1,9 @@
 # HP-ProBook-450-G3-Hackintosh
 My HP ProBook 450 G3 Hackintosh laptop configuration.
 
-after install to get sleep/wake working run theses commands:
+I put these commands at the top so everyone would see them :)
+
+After install to get sleep/wake working run theses commands:
 
     "sudo pmset -a hibernatemode 0"
     "sudo pmset autopoweroff 0"
