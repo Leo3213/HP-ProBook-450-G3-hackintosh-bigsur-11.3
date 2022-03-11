@@ -1,6 +1,10 @@
 # HP-ProBook-450-G3-Hackintosh
 My HP ProBook 450 G3 Hackintosh laptop configuration.
 
+(NO MORE UPDATES FOR THE CONFIG ONLY BECAUSE A COWORKER SPILLED LIQUID ON THE LAPTOP AND FRIED IT LOL)
+
+I NOW OWN A HP PROBOOK 450 G6 I5 VARIANT AS OF 3-2-22
+
 I put these commands at the top so everyone would see them :)
 
 After install to get sleep/wake working run theses commands:
